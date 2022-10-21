@@ -1,7 +1,7 @@
 # Easify
 
 <div align="center">
-  <img width="500" alt="expense tracker" src="file:///C:/Users/IT%20SOLUTIONS/Desktop/expense.PNG">
+  <img width="500" alt="expense tracker" src="https://drive.google.com/file/d/1vdj9jXaXdBkG-B45-oRm8yAhFzfpuJuF/view?usp=sharing">
 </div>
 
 ## Expense Tracker
