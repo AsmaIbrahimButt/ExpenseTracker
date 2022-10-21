@@ -1,7 +1,8 @@
 # Expense Tracker
 
-<div align="center">
-  <img width="500" alt="expense tracker" src="https://drive.google.com/file/d/1vdj9jXaXdBkG-B45-oRm8yAhFzfpuJuF/view?usp=sharing">
+<div align="center">![expense](https://user-images.githubusercontent.com/89297894/197215642-b151181a-6b4d-43a6-9e1b-6487c09a0259.PNG)
+
+
 </div>
 
 ## Expense Tracker
