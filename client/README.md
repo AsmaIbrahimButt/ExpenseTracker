@@ -1,4 +1,4 @@
-# Easify
+# Expense Tracker
 
 <div align="center">
   <img width="500" alt="expense tracker" src="https://drive.google.com/file/d/1vdj9jXaXdBkG-B45-oRm8yAhFzfpuJuF/view?usp=sharing">
